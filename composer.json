@@ -1,0 +1,18 @@
+{
+    "name": "ctppay/now-in-development",
+    "description": "CTPpay Payment Gateway Module for the WHMCS Billing Automation Platform",
+    "keywords": [
+        "ctppay",
+        "whmcs",
+        "web host automation platform",
+        "third party gateway module",
+        "gateway module",
+        "third party gateway"
+    ],
+    "homepage": "https://my.ctppay.com/",
+    "license": "MIT",
+    "require": {
+        "ext-json": "*",
+        "ext-openssl": "*"
+    }
+}
